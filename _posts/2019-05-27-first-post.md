@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "첫 개시글"
+title:  "첫 게시글"
 date:   2019-05-27 23:56:00
 author: Nickel
 categories: First Blog
@@ -22,3 +22,4 @@ I hope this blog can show `Codes` and yes some [link](#) and when needed a piece
 This is Mahabub I. and take care .
 
 example..
+
