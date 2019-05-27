@@ -65,7 +65,7 @@ pre,code{
 
 /*Header*/
 .header{
-  background:url('../img/bg.jpeg') #fff  center no-repeat ;
+  background:url('../img/toilet.jpg') #fff  center no-repeat ;
   max-width:100%;
   min-height:250px;
 
