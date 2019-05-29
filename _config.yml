@@ -15,8 +15,17 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-highlighter: rouge
+#highlighter: rouge
 
+# Conversion markdown: redcarpet 
+highlighter: pygments 
+redcarpet: 
+  extensions: 
+    ["no_intra_emphasis", 
+    "fenced_code_blocks", 
+    "autolink", 
+    "strikethrough", 
+    "superscript"]
 
 plugins:
   - jekyll-mentions
